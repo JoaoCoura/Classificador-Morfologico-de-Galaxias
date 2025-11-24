@@ -1,4 +1,4 @@
-# Classificador Morfologico de Galáxias
+# Classificador Morfológico de Galáxias
 Este projeto é uma aplicação Streamlit que realiza a classificação morfológica de galáxias utilizando duas arquiteturas distintas:
 
 ResNet-50 Fine-Tuned
@@ -21,5 +21,5 @@ arquiteturaPropria.keras
 
 3. Execute o aplicativo
 ```bash
-streamlit run galaxy_classifier_app.py
+streamlit run classificador.py
 ```
