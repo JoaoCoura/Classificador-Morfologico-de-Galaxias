@@ -1,4 +1,4 @@
-# Classificador Morfologico de Galaxias
+# Classificador Morfologico de Galáxias
 Este projeto é uma aplicação Streamlit que realiza a classificação morfológica de galáxias utilizando duas arquiteturas distintas:
 
 ResNet-50 Fine-Tuned
