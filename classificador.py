@@ -87,7 +87,7 @@ def predict_autoral(img):
 
 
 st.title("Classificador de Galáxias")
-st.write("Envie uma imagem para ser classificada por dois modelos e combinados.")
+st.write("Envie uma imagem para ser classificada por dois modelos.")
 
 uploaded = st.file_uploader("Selecione uma imagem", type=["jpg", "png", "jpeg"])
 
