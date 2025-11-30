@@ -6,7 +6,7 @@ import cv2
 from PIL import Image
 
 st.set_page_config(
-    page_title="Galaxy Classifier",
+    page_title="Classificador de Galáxias",
     page_icon="✨",
     layout="centered",
     initial_sidebar_state="collapsed",
